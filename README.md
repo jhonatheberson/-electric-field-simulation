@@ -23,18 +23,18 @@ VPython
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://github.com/jhonatheberson/Class-control/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/jhonatheberson/Electric-field-simulation/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/jhonatheberson/Class-control/tags). 
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/jhonatheberson/Electric-field-simulation/tags). 
 
 ## Authors
 
 * **Billie Thompson** - *Initial work* - [JhonatHeberson](https://github.com/jhonatheberson/)
 
-See also the list of [contributors](https://github.com/jhonatheberson/Class-control/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/jhonatheberson/Electric-field-simulation/contributors) who participated in this project.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/jhonatheberson/Class-control/blob/master/LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/jhonatheberson/Electric-field-simulation/blob/master/LICENSE.md) file for details
